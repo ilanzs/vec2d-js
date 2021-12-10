@@ -1,0 +1,22 @@
+{
+  "name": "vec2d",
+  "version": "1.0.0",
+  "description": "A library for using vectors and vector math",
+  "main": "vector.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ilanzs/vec2d-js.git"
+  },
+  "keywords": [
+    "vector"
+  ],
+  "author": "Ilan Segal <ilanzsegal@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ilanzs/vec2d-js/issues"
+  },
+  "homepage": "https://github.com/ilanzs/vec2d-js#readme"
+}
